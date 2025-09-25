@@ -37,7 +37,15 @@
 6. Choose where you want your file to be saved
 7. Click **Clone**
 
-
+#### 6) Writing code in WebStorm
+1. Open WebStorm
+2. Create a new file (e.g., 'index.html')
+3. Write your code
+4. Save the file
+5. After editing, click the checkmark at the top-right corner of WebStorm
+6. A window will pop up requestion for a **commit message** where you will name the type of edit you made
+7. Click **Commit**
+   
 
 
 
