@@ -9,5 +9,13 @@
 1. Visit the following site: https://git-scm.com/downloads
 2. Download and install the latest version (based on your operating system)
 
+#### 2) Install WebStorm
+1. Visit: https://www.jetbrains.com/student/
+2. Create account (reminder: if you have a student email you may be eligible for a free license)
+3. Download and Install WebStorm
+
+
+
+
 
 
