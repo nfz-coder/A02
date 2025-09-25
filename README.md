@@ -28,7 +28,7 @@
 4. Edit configuration to your liking
 5. Click on **Create repository**
 
-#### 5) Cloning GitHub repository into WebStorm
+#### 5) Cloning GitHub Repository into WebStorm
 1. Go to your repository on GitHub
 2. Copy the repository URL (i.e. "https://github.com/yourusername/repositoryname")
 3. Open WebStorm
@@ -37,7 +37,7 @@
 6. Choose where you want your file to be saved
 7. Click **Clone**
 
-#### 6) Writing code in WebStorm
+#### 6) Writing Code in WebStorm
 1. Open WebStorm
 2. Create a new file (e.g., 'index.html')
 3. Write your code
@@ -46,10 +46,10 @@
 6. A window will pop up requestion for a **commit message** where you will name the type of edit you made
 7. Click **Commit**
    
-#### 7) How to push changes to GitHub
+#### 7) How to Push Changes to GitHub
 1. After committing, your changes will be saved locally, not on GitHub
 2. To upload the changes, click the **Push** arrow on WebStorm
-3. PS: you can alternatively click on **Commit and Push** if you would rather do both simultaneously
+3. **PS:** you can alternatively click on **Commit and Push** if you would rather do both simultaneously
 
 
 
