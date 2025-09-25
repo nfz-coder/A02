@@ -46,7 +46,10 @@
 6. A window will pop up requestion for a **commit message** where you will name the type of edit you made
 7. Click **Commit**
    
-
+#### 7) How to push changes to GitHub
+1. After committing, your changes will be saved locally, not on GitHub
+2. To upload the changes, click the **Push** arrow on WebStorm
+3. PS: you can alternatively click on **Commit and Push** if you would rather do both simultaneously
 
 
 
