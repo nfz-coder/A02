@@ -1,7 +1,7 @@
 # A02
 ## Tutorial on how to use Git, WebStorm, and Git-Hub
 **Name:** Nathania Zemedagegnehu
-**Repository:** https://gitub.com/nfz-coder/A02
+**Repository:** https://github.com/nfz-coder/A02
 
 
 #### Part 1: WebStorm Directions
