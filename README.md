@@ -1,6 +1,7 @@
 # A02
 ## Tutorial on how to use Git, WebStorm, and Git-Hub
 **Name:** Nathania Zemedagegnehu
+
 **Repository:** https://github.com/nfz-coder/A02
 
 
@@ -18,8 +19,8 @@
 1. Open WebStorm
 2. For Windows: Go to **File > Settings> Version Control > Git** 
 3. For Mac: Go to **WebStorm > Preferences > Version Control > Git**
-4. WebStorm will auto-detect the Git and a version number should show.
-5. Click **Apply** and then **Ok** to save.
+4. WebStorm will auto-detect the Git and a version number should show
+5. Click **Apply** and then **Ok** to save
 
 #### 4) Create GitHub repository
 1. Sign into GitHub (or make an account)
@@ -54,22 +55,23 @@
 
 ### Part 2: Glossary
 - **Branch**: a version of your project where you can make changes without affecting your main code
-- **Clone**: a copy of a repository you download to your machine
-- **Commit**: to save a snap shot of your changes
-- **Fetch**: to get the latest changes from GitHub without changing your files
-- **Git**: a system that trakcs all the changes to your project 
+- **Clone**: a copy of a repository you download to your machine so you can work on it 
+- **Commit**: to save a snap shot of your changes (they include messages that describe what was changed)
+- **Fetch**: to get the latest changes from GitHub without changing your local project
+- **GIT**: a system that trakcs all the changes to your project, allowing multiple people to work on it
 - **GitHub**: a website that stores your repository (you can create, store and manage your code on GitHub)
 - **Merge**: to combine changes from one branch to another
+- **Merge Conflict**: when Git cannot automatically combine changes because two people edited part of a file in different ways
 - **Push**: to upload your changes to GitHub
-- **Pull**: to download the latest changes from GitHb to your computer
+- **Pull**: to download the latest changes from GitHub to your computer, merging it to your local project
 - **Remote**: the version of your repository that is stored in GitHub
-- **Repository**: your project folder that contains all your files and history
+- **Repository**: a project folder that contains all your files and history
 
 ### References
 - Murach HTML and CSS book
 - https://github.com/git-guides/git-commit
 - https://www.jetbrains.com/help/webstorm/using-git-integration.html
 - https://www.jetbrains.com/help/webstorm/github.html
-- chatgpt.com
+- https://chatgpt.com/?model=auto
 
 
