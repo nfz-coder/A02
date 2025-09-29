@@ -4,7 +4,7 @@
 **Repository:** https://github.com/nfz-coder/A02
 
 
-#### Part 1: WebStorm Directions
+### Part 1: WebStorm Directions
 #### 1) Install Git
 1. Visit the following site: https://git-scm.com/downloads
 2. Download and install the latest version (based on your operating system)
@@ -52,7 +52,24 @@
 3. **PS:** you can alternatively click on **Commit and Push** if you would rather do both simultaneously
 
 
+### Part 2: Glossary
+- **Branch**: a version of your project where you can make changes without affecting your main code
+- **Clone**: a copy of a repository you download to your machine
+- **Commit**: to save a snap shot of your changes
+- **Fetch**: to get the latest changes from GitHub without changing your files
+- **Git**: a system that trakcs all the changes to your project 
+- **GitHub**: a website that stores your repository (you can create, store and manage your code on GitHub)
+- **Merge**: to combine changes from one branch to another
+- **Push**: to upload your changes to GitHub
+- **Pull**: to download the latest changes from GitHb to your computer
+- **Remote**: the version of your repository that is stored in GitHub
+- **Repository**: your project folder that contains all your files and history
 
-
+### References
+- Murach HTML and CSS book
+- https://github.com/git-guides/git-commit
+- https://www.jetbrains.com/help/webstorm/using-git-integration.html
+- https://www.jetbrains.com/help/webstorm/github.html
+- chatgpt.com
 
 
